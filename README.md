@@ -2,10 +2,10 @@
 
 ## Funkcjonalności aplikacji w wersji:
 
-v.1.0
+v.2.0
 - [x] obsługa osób dorosłych
 - [x] obsługa wymagań dla osób +40 
-- Jesli uzytkownikiem jest kobieta +30 to aperol spritz pierwszy gratis!
-- Obsługa osob powyżej 120 lat
-- wybór płci
-- wybór regionu: EUR albo USA
+- [x] Jesli uzytkownikiem jest kobieta +30 to aperol spritz pierwszy gratis!
+- [x] Obsługa osob powyżej 120 lat
+- [x] wybór płci
+- [x] wybór regionu: EUR albo USA
